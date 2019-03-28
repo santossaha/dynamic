@@ -124,3 +124,6 @@ add_theme_support( 'custom-header' );
 add_theme_support( 'post-formats' );
 add_theme_support('title-tag');
 
+/****************Seacch form ********************/
+seacrh type text show on header page
+<?php _e(); echo '&quot;'.$s.'&quot';?>
